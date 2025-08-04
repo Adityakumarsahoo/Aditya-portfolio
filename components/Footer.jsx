@@ -17,8 +17,8 @@ const Footer = ({isDarkMode}) => {
     <div className='text-center sm:flex items-center justify-between border-t border-gray-400 mx-[10%] mt-12 py-6'>
         <p>© 2025 Aditya. All rights reserved.</p>
         <ul className='flex items-center gap-10 justify-center mt-4 sm:mt-0'>
-            <li><a target='_blank' href="https://instagram.com/Adityakumarsahoo">GitHub</a></li>
-            <li><a target='_blank' href="https://github.com/Adityakumarsahoo">LinkedIn</a></li>
+            <li><a target='_blank' href="https://github.com/Adityakumarsahoo">GitHub</a></li>
+            <li><a target='_blank' href="https://www.linkedin.com/in/aditya-kumar-sahoo-nit/">LinkedIn</a></li>
             <li><a target='_blank' href="https://x.com/AdiTheNalanda">Twitter</a></li>
         </ul>
     </div>
